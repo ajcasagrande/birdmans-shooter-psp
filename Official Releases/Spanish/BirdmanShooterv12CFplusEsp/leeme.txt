@@ -1,0 +1,23 @@
+Spanish:
+
+Este paquete ha sido descargado de la base de datos de http://beta.pesepe.com.
+En dicha direccion encontrara toda la informacion necesaria sobre el contenido del archivo RAR.
+
+Instalacion:
+Copiar la carpeta "PSP" al directorio raiz de la PSP. Sobreescribir cuando lo pida.
+
+Para dudas, consultas, tutoriales sobre esta u otras aplicaciones homebrew consulta nuestra 
+pagina web www.pesepe.com o nuestra comunidad http://beta.pesepe.com
+
+
+
+English:
+
+This software has been downloaded form http://beta.pesepe.com data base.
+You can find any info as you need about the RAR archive on those address.
+
+Instalation:
+Copy "PSP" folder to root directory of your PSP. Rewritte when demand.
+
+For doubts or tutorials on this one or other applications homebrew visit our web page 
+www.pesepe.com or our community http://beta.pesepe.com

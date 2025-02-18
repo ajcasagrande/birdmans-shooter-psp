@@ -1,0 +1,5 @@
+#include <psputility_sysparam.h>
+
+
+    char nickname[25];
+    sceUtilityGetSystemParamString(1, nickname, 25);
