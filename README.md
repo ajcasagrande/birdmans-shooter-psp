@@ -6,6 +6,12 @@ this game brings back the nostalgic arcade shoot-'em-up experience directly to y
 
 New release version 1.3 was submitted to the PSP-Hacks Homebrew Competition 2008.
 
+
+
+https://github.com/user-attachments/assets/70d6b411-d04c-4139-9398-de56efaf8845
+
+
+
 ## Game Description
 
 Birdman's Shooter is an action-packed space shooter game where you pilot a spaceship and fend off waves of alien enemies. 
