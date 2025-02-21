@@ -41,6 +41,10 @@ With smooth graphics, engaging gameplay, and multiple levels, this game promises
 - **O Button**: Alternative shoot (if available)
 - **Start Button**: Pause the game
 
+## WayBack Links
+https://web.archive.org/web/20110310045916/http://www.psp-hacks.com:80/file/1335
+
+
 ## Publications
 
 ### Release 1.0 Announcement (psp-hacks.com)
