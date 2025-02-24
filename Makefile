@@ -6,13 +6,12 @@ CXXFLAGS = $(CFLAGS) -fno-exceptions -fno-rtti
 ASFLAGS = $(CFLAGS)
 
 LIBDIR =
-LIBS = -losl -lpng -lz \
-        -lpspsdk -lpspctrl -lpspumd -lpsprtc -lpsppower -lpspgu -lpspaudiolib -lpspaudio -lm
+LIBS = -lpspgu -lpng -lz -lm
 LDFLAGS =
 
 EXTRA_TARGETS = EBOOT.PBP
-PSP_EBOOT_TITLE = Birdmans Shooter 1.0
-PSP_EBOOT_ICON= thumb1.png
+PSP_EBOOT_TITLE = Birdmans Shooter 1.3
+PSP_EBOOT_ICON= thumb13.png
 
 PSPSDK=$(shell psp-config --pspsdk-path)
 include $(PSPSDK)/lib/build.mak 
