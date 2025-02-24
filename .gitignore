@@ -1,0 +1,10 @@
+*.zip
+*.7z
+*.rar
+*.lnk
+.idea/
+*.o
+*.elf
+*.xls
+
+
